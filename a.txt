@@ -1,9 +1,1 @@
-1234
-q
-d
-e
-<<<<<<< HEAD
-caca
-=======
-mierda
->>>>>>> 297a14f9ab76dd7b572cba256dbe444ee1196982
+reset
